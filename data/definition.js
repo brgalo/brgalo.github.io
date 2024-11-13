@@ -118,6 +118,7 @@ const fileAnswers = "Partei-Details.csv";
 
 */ 
 
+
 const intPartyLogosImgWidth = "10%";
 const intPartyLogosImgHeight = "10%";
 
