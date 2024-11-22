@@ -62,14 +62,14 @@
 	e.g. "Airport","The airport shall be expanded."
 */
 
-const fileQuestions = "Fragen_und_Positionen.csv";
+const fileQuestions = "weimar_fragen.csv";
 
 
 // 	--------------------------------------------------------------------
 
 //	1.2 ANZAHL der FRAGEN / 1.2 NUMBER of QUESTIONS
 
-const intQuestions = 6;
+const intQuestions = 24;
 
 
 // 	--------------------------------------------------------------------
@@ -94,7 +94,7 @@ const intQuestions = 6;
  	1.3. PARTIES, PARTY-INFORMATION and ANSWERS
 */
 
-const fileAnswers = "Partei-Details.csv";
+const fileAnswers = "weimar_partein.csv";
 
 /*
  	1.5. BILDGROESSE des PARTEILOGOS (am Ende)
